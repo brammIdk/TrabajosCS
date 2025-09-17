@@ -33,12 +33,13 @@ namespace _17092503
             double montoImpuesto = subTotal * IGV;
             double montoTotal = subTotal + montoImpuesto;
 
-            Console.WriteLine($"monto de descuento: {montoDscto :F2}");
-            Console.WriteLine($"subtotal: {subTotal}");
-            Console.WriteLine($"monto de impuesto: {montoImpuesto}");
-            Console.WriteLine($"monto total: {montoTotal}");
+            Console.WriteLine($"monto de descuento: {montoDscto:F2}");
+            Console.WriteLine($"subtotal: {subTotal:F2}");
+            Console.WriteLine($"monto de impuesto: {montoImpuesto:F2}");
+            Console.WriteLine($"monto total: {montoTotal:F2}");
 
             Console.ReadKey();
+
         }
     }
 }

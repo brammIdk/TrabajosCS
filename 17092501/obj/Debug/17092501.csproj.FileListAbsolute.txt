@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\LocalWorking\17092501\obj\Debug\17092501.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\LocalWorking\17092501\obj\Debug\17092501.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\LocalWorking\17092501\bin\Debug\17092501.exe.config
+C:\Users\UPN\Documents\LocalWorking\17092501\bin\Debug\17092501.exe
+C:\Users\UPN\Documents\LocalWorking\17092501\bin\Debug\17092501.pdb
+C:\Users\UPN\Documents\LocalWorking\17092501\obj\Debug\17092501.exe
+C:\Users\UPN\Documents\LocalWorking\17092501\obj\Debug\17092501.pdb

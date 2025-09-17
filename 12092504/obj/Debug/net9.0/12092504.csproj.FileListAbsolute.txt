@@ -1,0 +1,14 @@
+C:\Users\UPN\Documents\LocalWorking\12092504\bin\Debug\net9.0\12092504.exe
+C:\Users\UPN\Documents\LocalWorking\12092504\bin\Debug\net9.0\12092504.deps.json
+C:\Users\UPN\Documents\LocalWorking\12092504\bin\Debug\net9.0\12092504.runtimeconfig.json
+C:\Users\UPN\Documents\LocalWorking\12092504\bin\Debug\net9.0\12092504.dll
+C:\Users\UPN\Documents\LocalWorking\12092504\bin\Debug\net9.0\12092504.pdb
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\12092504.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\12092504.AssemblyInfoInputs.cache
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\12092504.AssemblyInfo.cs
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\12092504.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\12092504.dll
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\refint\12092504.dll
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\12092504.pdb
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\12092504.genruntimeconfig.cache
+C:\Users\UPN\Documents\LocalWorking\12092504\obj\Debug\net9.0\ref\12092504.dll

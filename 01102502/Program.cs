@@ -14,14 +14,22 @@ namespace _01102502
             int nBase = int.Parse(Console.ReadLine());
             Console.WriteLine("ingrese el exponente: ");
             int nExp = int.Parse(Console.ReadLine());
-
+            /*
             int cont = 1, res = 1;
             while (cont <= nExp)
             {
                 res *= nBase;
                 cont++;
             }
-            Console.WriteLine(res);
+            Console.WriteLine(res);*/
+            int res = 1;
+            for (int i = 1; i <= nExp; i++)
+            {
+                res *= nBase;
+            }
+            
+            Console.WriteLine($"resultado: {res}");
+            Console.ReadKey();
         }
     }
 }

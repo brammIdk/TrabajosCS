@@ -10,6 +10,7 @@ namespace _01102503
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

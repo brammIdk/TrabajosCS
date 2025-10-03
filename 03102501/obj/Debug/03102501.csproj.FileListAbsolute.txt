@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\asdasdasd\03102501\bin\Debug\03102501.exe.config
+C:\Users\UPN\Documents\asdasdasd\03102501\bin\Debug\03102501.exe
+C:\Users\UPN\Documents\asdasdasd\03102501\bin\Debug\03102501.pdb
+C:\Users\UPN\Documents\asdasdasd\03102501\obj\Debug\03102501.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\asdasdasd\03102501\obj\Debug\03102501.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\asdasdasd\03102501\obj\Debug\03102501.exe
+C:\Users\UPN\Documents\asdasdasd\03102501\obj\Debug\03102501.pdb

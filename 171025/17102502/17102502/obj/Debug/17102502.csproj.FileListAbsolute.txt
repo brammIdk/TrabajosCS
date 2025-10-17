@@ -1,0 +1,10 @@
+C:\Users\UPN\Documents\asdasd\17102502\17102502\bin\Debug\17102502.exe.config
+C:\Users\UPN\Documents\asdasd\17102502\17102502\bin\Debug\17102502.exe
+C:\Users\UPN\Documents\asdasd\17102502\17102502\bin\Debug\17102502.pdb
+C:\Users\UPN\Documents\asdasd\17102502\17102502\obj\Debug\17102502.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\asdasd\17102502\17102502\obj\Debug\17102502.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\asdasd\17102502\17102502\obj\Debug\17102502.exe
+C:\Users\UPN\Documents\asdasd\17102502\17102502\obj\Debug\17102502.pdb
+C:\Users\UPN\Documents\asdasd\17102502\17102502\bin\Debug\Calc.dll
+C:\Users\UPN\Documents\asdasd\17102502\17102502\bin\Debug\Calc.pdb
+C:\Users\UPN\Documents\asdasd\17102502\17102502\obj\Debug\17102502.csproj.Up2Date

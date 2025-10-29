@@ -1,0 +1,6 @@
+C:\Users\UPN\Documents\asdasd\ParaBorrar\BibliotecaSem11\bin\Debug\BibliotecaSem11.dll
+C:\Users\UPN\Documents\asdasd\ParaBorrar\BibliotecaSem11\bin\Debug\BibliotecaSem11.pdb
+C:\Users\UPN\Documents\asdasd\ParaBorrar\BibliotecaSem11\obj\Debug\BibliotecaSem11.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\asdasd\ParaBorrar\BibliotecaSem11\obj\Debug\BibliotecaSem11.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\asdasd\ParaBorrar\BibliotecaSem11\obj\Debug\BibliotecaSem11.dll
+C:\Users\UPN\Documents\asdasd\ParaBorrar\BibliotecaSem11\obj\Debug\BibliotecaSem11.pdb

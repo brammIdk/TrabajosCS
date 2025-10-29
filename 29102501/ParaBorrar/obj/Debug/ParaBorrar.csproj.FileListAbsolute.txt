@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\asdasd\ParaBorrar\ParaBorrar\bin\Debug\ParaBorrar.exe.config
+C:\Users\UPN\Documents\asdasd\ParaBorrar\ParaBorrar\bin\Debug\ParaBorrar.exe
+C:\Users\UPN\Documents\asdasd\ParaBorrar\ParaBorrar\bin\Debug\ParaBorrar.pdb
+C:\Users\UPN\Documents\asdasd\ParaBorrar\ParaBorrar\obj\Debug\ParaBorrar.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\asdasd\ParaBorrar\ParaBorrar\obj\Debug\ParaBorrar.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\asdasd\ParaBorrar\ParaBorrar\obj\Debug\ParaBorrar.exe
+C:\Users\UPN\Documents\asdasd\ParaBorrar\ParaBorrar\obj\Debug\ParaBorrar.pdb

@@ -1,0 +1,14 @@
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\bin\Debug\net8.0\asdasdasd.exe
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\bin\Debug\net8.0\asdasdasd.deps.json
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\bin\Debug\net8.0\asdasdasd.runtimeconfig.json
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\bin\Debug\net8.0\asdasdasd.dll
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\bin\Debug\net8.0\asdasdasd.pdb
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\asdasdasd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\asdasdasd.AssemblyInfoInputs.cache
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\asdasdasd.AssemblyInfo.cs
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\asdasdasd.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\asdasdasd.dll
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\refint\asdasdasd.dll
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\asdasdasd.pdb
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\asdasdasd.genruntimeconfig.cache
+C:\Users\UPN\Documents\asdasd\asdasdasd\asdasdasd\obj\Debug\net8.0\ref\asdasdasd.dll

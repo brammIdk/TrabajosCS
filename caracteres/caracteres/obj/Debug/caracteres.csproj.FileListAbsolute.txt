@@ -1,0 +1,7 @@
+C:\Users\UPN\Music\caracteres\caracteres\bin\Debug\caracteres.exe.config
+C:\Users\UPN\Music\caracteres\caracteres\bin\Debug\caracteres.exe
+C:\Users\UPN\Music\caracteres\caracteres\bin\Debug\caracteres.pdb
+C:\Users\UPN\Music\caracteres\caracteres\obj\Debug\caracteres.csproj.AssemblyReference.cache
+C:\Users\UPN\Music\caracteres\caracteres\obj\Debug\caracteres.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Music\caracteres\caracteres\obj\Debug\caracteres.exe
+C:\Users\UPN\Music\caracteres\caracteres\obj\Debug\caracteres.pdb

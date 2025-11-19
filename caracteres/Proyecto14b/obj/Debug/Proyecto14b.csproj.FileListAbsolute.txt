@@ -1,0 +1,7 @@
+C:\Users\UPN\Music\caracteres\Proyecto14b\bin\Debug\Proyecto14b.exe.config
+C:\Users\UPN\Music\caracteres\Proyecto14b\bin\Debug\Proyecto14b.exe
+C:\Users\UPN\Music\caracteres\Proyecto14b\bin\Debug\Proyecto14b.pdb
+C:\Users\UPN\Music\caracteres\Proyecto14b\obj\Debug\Proyecto14b.csproj.AssemblyReference.cache
+C:\Users\UPN\Music\caracteres\Proyecto14b\obj\Debug\Proyecto14b.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Music\caracteres\Proyecto14b\obj\Debug\Proyecto14b.exe
+C:\Users\UPN\Music\caracteres\Proyecto14b\obj\Debug\Proyecto14b.pdb
